@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hoverdash/static/css/main.129ce20a.chunk.css",
+    "main.css": "/hoverdash/static/css/main.578b8bce.chunk.css",
     "main.js": "/hoverdash/static/js/main.58add40f.chunk.js",
     "main.js.map": "/hoverdash/static/js/main.58add40f.chunk.js.map",
     "runtime-main.js": "/hoverdash/static/js/runtime-main.4c470546.js",
@@ -10,13 +10,13 @@
     "static/js/3.c2fabbcb.chunk.js": "/hoverdash/static/js/3.c2fabbcb.chunk.js",
     "static/js/3.c2fabbcb.chunk.js.map": "/hoverdash/static/js/3.c2fabbcb.chunk.js.map",
     "index.html": "/hoverdash/index.html",
-    "static/css/main.129ce20a.chunk.css.map": "/hoverdash/static/css/main.129ce20a.chunk.css.map",
+    "static/css/main.578b8bce.chunk.css.map": "/hoverdash/static/css/main.578b8bce.chunk.css.map",
     "static/js/2.78e15013.chunk.js.LICENSE.txt": "/hoverdash/static/js/2.78e15013.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4c470546.js",
     "static/js/2.78e15013.chunk.js",
-    "static/css/main.129ce20a.chunk.css",
+    "static/css/main.578b8bce.chunk.css",
     "static/js/main.58add40f.chunk.js"
   ]
 }
